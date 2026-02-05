@@ -1,7 +1,3 @@
----
-title: "KCS - VS Code on Ubuntu 24.04: Opening PartsUnlimited solution requires Mono msbuild and NuGet"
----
-
 # KCS - VS Code on Ubuntu 24.04: Opening PartsUnlimited solution requires Mono msbuild and NuGet
 
 ## Environment
